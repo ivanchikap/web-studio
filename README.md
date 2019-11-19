@@ -5,6 +5,8 @@ This project is created for an educational goal. That is why, I used float techn
 ***
 You can estimate my [landing-page](https://ivanchikap.github.io/web-studio/).
 
+This site layout is adaptive for all type of devices with screen width more then 319px.<br>
+
 # Web-site is about...
 Thomas Rhythm web studio [![N](img/logo.png)](https://ivanchikap.github.io/web-studio/)
 ---------------------
